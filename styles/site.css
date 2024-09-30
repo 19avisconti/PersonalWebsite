@@ -1,0 +1,233 @@
+html {
+  font-family: "Noto Sans", sans-serif;
+  /* <!-- Source: https://www.pexels.com/search/beach/ --> */
+  background-image: url("/images/beach.jpg");
+  background-size: cover;
+}
+
+body {
+  background-color: #eaeaea;
+  color: #2a2a2a;
+  margin: 50px 90px 0px 90px;
+  padding: 0px;
+  font-size: 19px;
+  line-height: 2;
+}
+
+h1 {
+  font-size: 80px;
+  color: #f7f7f7;
+  background-color: #559ae2;
+  padding: 5px;
+  margin: auto auto auto 0;
+}
+
+h2 {
+  border-bottom: 3px solid #060606;
+  color: #060606;
+  font-size: 40px;
+}
+
+
+dt {
+  font-weight: bold;
+}
+
+
+section p {
+  font-size: 22px;
+}
+
+
+.me-image {
+  width: 450px;
+  height: 600px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.cornell-logo {
+  width: 250px;
+  height: 250px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.pickleball {
+  width: 550px;
+  height: 450px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.fencing {
+  width: 750px;
+  height: 500px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.shellfinder {
+  width: 270px;
+  height: 600px;
+
+  border: 5px solid #060606;
+  padding: 3px;
+  border-radius: 40px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.shellfinder-icon {
+  width: 250px;
+  height: 250px;
+
+  border: 8px solid #1571db;
+  border-radius: 40px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.scw {
+  width: 650px;
+  height: 400px;
+
+  border: 8px solid #1571db;
+  border-radius: 40px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.cfa {
+  width: 550px;
+  height: 300px;
+
+  border-radius: 40px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.lifeguard {
+  width: 450px;
+  height: 600px;
+
+  border-radius: 40px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.mcps {
+  width: 600px;
+  height: 400px;
+
+
+  display: block;
+  margin: 40px auto;
+}
+
+.rumrunner {
+  width: 600px;
+  height: 200px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.seashells {
+  width: 1000px;
+  height: 600px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.seashell-outlines {
+  width: 500px;
+  height: 170px;
+
+  display: block;
+  margin: 40px auto;
+}
+
+.title-header {
+  text-align: center;
+}
+
+ul a {
+  display: block;
+  padding: 10px;
+  color: black;
+  text-decoration: None;
+
+  list-style-type: none;
+}
+nav ul li {
+  display: inline;
+}
+
+nav {
+  background-color: #7a7a7a11;
+  margin: 0 auto auto auto;
+  padding: 1px;
+}
+
+.chosen-element {
+  border-left: 5px solid #559ae2;
+  font-weight: bold;
+}
+
+main {
+  margin: 40px;
+  padding-bottom: 15px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.content-box {
+  background-color: #f0f8ff;
+  border-radius: 25px;
+  padding: 20px;
+  margin-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.content-box a {
+  color: rgb(15, 123, 237);
+}
+
+.contact-box {
+  background-color: rgb(42, 42, 42);
+  padding: 20px;
+  color: rgb(157, 157, 157);
+}
+
+.contact-box h2 {
+  color: rgb(157, 157, 157);
+  border-bottom: 3px solid rgb(157, 157, 157);
+}
+
+.contact-box a {
+  text-decoration: none;
+  color: rgb(157, 157, 157);
+}
+
+.about-box {
+  background-color: #f4cc99;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 50px 200px 50px 200px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
